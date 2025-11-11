@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/bgzip-{{ version }}.tar.gz
-  sha256: 9f80cf018befe8f8f201fb571cf42f74e8d72f5bfdf897f4b451286d8abc955f 
+  sha256: 9f80cf018befe8f8f201fb571cf42f74e8d72f5bfdf897f4b451286d8abc955f
 
 build:
   number: 1
