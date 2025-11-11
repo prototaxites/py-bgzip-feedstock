@@ -41,7 +41,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/DataBiosphere/bgzip 
+  home: https://github.com/DataBiosphere/bgzip
   summary: Utilities working with blocked gzip streams.
   license: MIT
   license_file: LICENSE
