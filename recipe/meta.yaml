@@ -11,7 +11,7 @@ source:
   sha256: 9f80cf018befe8f8f201fb571cf42f74e8d72f5bfdf897f4b451286d8abc955f
 
 build:
-  number: 1
+  number: 0
   script:
     - export BUILD_WITH_CYTHON=1  # [not win]
     - set BUILD_WITH_CYTHON=1  # [win]
